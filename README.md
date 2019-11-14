@@ -1,2 +1,2 @@
 # hello-world
-I'm doingn tutorial!
+I'm doing tutorial!
